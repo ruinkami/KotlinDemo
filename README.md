@@ -1,0 +1,2 @@
+# KotlinDemo
+Kotlin的简单Demo，用Java和Kotlin分别实现了相同的自定义View列表页和详情页

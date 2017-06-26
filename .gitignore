@@ -53,3 +53,9 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
+
+gradle/wrapper
+.idea
+gradlew.bat
+gradlew
+gradle.properties

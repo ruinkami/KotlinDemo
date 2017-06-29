@@ -24,7 +24,7 @@
                 <category android:name="android.intent.category.BROWSABLE" />
 
                 <data
-                    android:host="kotlindemo"
+                    android:host="kotlindemo://"
                     android:scheme="javalist" />
             </intent-filter>
         </activity>
@@ -36,7 +36,7 @@
                 <category android:name="android.intent.category.BROWSABLE" />
 
                 <data
-                    android:host="kotlindemo"
+                    android:host="kotlindemo://"
                     android:scheme="javainfo" />
             </intent-filter>
         </activity>
@@ -48,7 +48,7 @@
                 <category android:name="android.intent.category.BROWSABLE" />
 
                 <data
-                    android:host="kotlindemo"
+                    android:host="kotlindemo://"
                     android:scheme="kotlinlist" />
             </intent-filter>
         </activity>
@@ -60,7 +60,7 @@
                 <category android:name="android.intent.category.BROWSABLE" />
 
                 <data
-                    android:host="kotlindemo"
+                    android:host="kotlindemo://"
                     android:scheme="kotlininfo" />
             </intent-filter>
         </activity>
